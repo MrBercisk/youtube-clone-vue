@@ -1,0 +1,26 @@
+[
+    {"kategori":"kartun" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/tekotok.jpg", "judul": "Tekotok Kompilasi" , "name":"Tekotok" , "penonton":"1 jt x ditonton . 1 hari yang lalu"},
+    {"kategori":"kartun" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/kartun2.jpg", "judul": "LARVA|FRUTA ACIDA|Dibujos animados" , "name":"WildBrain Ninos" , "penonton":"50 jt x ditonton . 5 tahun yang lalu"},
+    {"kategori":"kartun" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/kartun3.jpg", "judul": "Pemilihan Ketua Osis" , "name":"Tekotok" , "penonton":"200 rb x ditonton . 1 hari yang lalu"},
+    {"kategori":"game" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/tekken.jpg", "judul": "AKHIRNYA GAME FIGHTING TERBAIK" ,"name":"Windah Basudara", "penonton":"1 jt x ditonton . 1 hari yang lalu"},
+    {"kategori":"game" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/game2.jpg", "judul": "Savage Pakai Jungler Terkuat di Mobile Legends" ,"name":"Jess No Limit", "penonton":"14 rb x ditonton . 35 menit yang lalu"},
+    {"kategori":"game" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/game3.jpg", "judul": "Epic Ke Mythic" ,"name":"Jess No Limit", "penonton":"10 rb x ditonton . 20 jam yang lalu"},
+    {"kategori":"berita" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/pemilu.jpg", "judul": "Quick Count Anak Hokage","name":"Hokage Ke 7", "penonton":"1 jt x ditonton . 1 hari yang lalu" },
+    {"kategori":"berita" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/berita2.jpg", "judul": "Tanggapan Effendi Gazali Soal Hubungan Jokowi","name":"tvOneNews", "penonton":"2 jt x ditonton . 2 hari yang lalu" },
+    {"kategori":"berita" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/berita3.jpg", "judul": "Aniew Baswedan Angkat Bicara Pertemuan Jokowi","name":"KOMPASTV", "penonton":"700 rb x ditonton . 20 jam yang lalu" },
+    {"kategori":"musik" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/good.jpg", "judul": "Good Vibeas Music","name":"Dreamy Vibez", "penonton":"2 jt x ditonton . 7 bulan yang lalu" },
+    {"kategori":"musik" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/jeans.jpg", "judul": "New Jeans Playlist","name":"Mmonami", "penonton":"1 jt x ditonton . 1 hari yang lalu" },
+    {"kategori":"musik" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/morning.jpg", "judul": "Morning vibes Playlist","name":"Lynn", "penonton":"1 jt x ditonton . 1 hari yang lalu" },
+    {"kategori":"musik" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/rap.jpg", "judul": "Anies VS Prabowo Rap Battles","name":"skinnyindonesian24", "penonton":"10 jt x ditonton . 6 hari yang lalu" },
+    {"kategori":"musik" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/santai.jpg", "judul": "Good Vibes Music 2024","name":"Dicari music", "penonton":"1,3 jt x ditonton . 3 minggu yang lalu" },
+    {"kategori":"musik" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/live1.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" },
+    {"kategori":"live" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/live1.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" },
+    {"kategori":"live" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/live2.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" },
+    {"kategori":"live" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/live3.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" },
+    {"kategori":"baru" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/baru1.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" },
+    {"kategori":"baru" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/baru2.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" },
+    {"kategori":"baru" , "profil":"/assets/images/profil.png", "imgUrl": "/assets/images/baru3.jpg", "judul": "lagu enak didengar spotify 2023","name":"Classic Music", "penonton":"2,7 jt x ditonton . 1 bulan yang lalu" }
+  
+    
+  ]
+  
